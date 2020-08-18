@@ -8,6 +8,6 @@
 
 ## 3、动图演示
 <!-- more -->
-![](https://github.com/JadeAgile/echarts-map-of-South-China-drill-down/blob/master/asset/images/demo.gif)
+![Image](https://github.com/JadeAgile/echarts-map-of-South-China-drill-down/blob/master/asset/images/demo.gif)
 
  
