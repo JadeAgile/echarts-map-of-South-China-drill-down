@@ -10,4 +10,5 @@
 <!-- more -->
 ![Image](https://github.com/JadeAgile/echarts-map-of-South-China-drill-down/blob/master/asset/images/demo.gif)
 
- 
+ ## 4、欢迎交流ԅ(¯﹃¯ԅ)
+ > QQ:360716376 Jade
